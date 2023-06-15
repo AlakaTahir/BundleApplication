@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\obj\Debug\netcoreapp3.1\Bundle.Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\obj\Debug\netcoreapp3.1\Bundle.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\obj\Debug\netcoreapp3.1\Bundle.Service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\obj\Debug\netcoreapp3.1\Bundle.Service.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\obj\Debug\netcoreapp3.1\Bundle.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\bin\Debug\netcoreapp3.1\Bundle.Service.deps.json
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\bin\Debug\netcoreapp3.1\Bundle.Service.dll
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\bin\Debug\netcoreapp3.1\Bundle.Service.pdb
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\bin\Debug\netcoreapp3.1\Bundle.Model.dll
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\bin\Debug\netcoreapp3.1\Bundle.Model.pdb
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\obj\Debug\netcoreapp3.1\Bundle.Service.csproj.CopyComplete
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\obj\Debug\netcoreapp3.1\Bundle.Service.dll
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Service\obj\Debug\netcoreapp3.1\Bundle.Service.pdb

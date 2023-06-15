@@ -263,14 +263,14 @@
           "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
-      "Bundle.Project/1.0.0": {
+      "Bundle.Model/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Bundle.Project.dll": {}
+          "bin/placeholder/Bundle.Model.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bundle.Project.dll": {}
+          "bin/placeholder/Bundle.Model.dll": {}
         }
       }
     }
@@ -753,50 +753,47 @@
         "version.txt"
       ]
     },
-    "Bundle.Project/1.0.0": {
+    "Bundle.Model/1.0.0": {
       "type": "project",
-      "path": "../Bundle.Project/Bundle.Project.csproj",
-      "msbuildProject": "../Bundle.Project/Bundle.Project.csproj"
+      "path": "../Bundle.Model/Bundle.Model.csproj",
+      "msbuildProject": "../Bundle.Model/Bundle.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Bundle.Project >= 1.0.0",
+      "Bundle.Model >= 1.0.0",
       "Microsoft.EntityFrameworkCore.UnitOfWork >= 3.1.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Habeebullah\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Habeebullah\\source\\repos\\BundleApplication\\Bundle.Service\\Bundle.Service.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practice\\BundleApplication\\Bundle.Service\\Bundle.Service.csproj",
       "projectName": "Bundle.Service",
-      "projectPath": "C:\\Users\\Habeebullah\\source\\repos\\BundleApplication\\Bundle.Service\\Bundle.Service.csproj",
-      "packagesPath": "C:\\Users\\Habeebullah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Habeebullah\\source\\repos\\BundleApplication\\Bundle.Service\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\BundleApplication\\Bundle.Service\\Bundle.Service.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Practice\\BundleApplication\\Bundle.Service\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Habeebullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Habeebullah\\source\\repos\\BundleApplication\\Bundle.Project\\Bundle.Project.csproj": {
-              "projectPath": "C:\\Users\\Habeebullah\\source\\repos\\BundleApplication\\Bundle.Project\\Bundle.Project.csproj"
+            "C:\\Users\\HP\\Desktop\\Practice\\BundleApplication\\Bundle.Model\\Bundle.Model.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\BundleApplication\\Bundle.Model\\Bundle.Model.csproj"
             }
           }
         }
@@ -831,7 +828,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

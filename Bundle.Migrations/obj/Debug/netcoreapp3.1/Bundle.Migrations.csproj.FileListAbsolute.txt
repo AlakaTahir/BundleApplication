@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\obj\Debug\netcoreapp3.1\Bundle.Migrations.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\obj\Debug\netcoreapp3.1\Bundle.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\obj\Debug\netcoreapp3.1\Bundle.Migrations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\obj\Debug\netcoreapp3.1\Bundle.Migrations.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\obj\Debug\netcoreapp3.1\Bundle.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\bin\Debug\netcoreapp3.1\Bundle.Migrations.deps.json
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\bin\Debug\netcoreapp3.1\Bundle.Migrations.runtimeconfig.json
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\bin\Debug\netcoreapp3.1\Bundle.Migrations.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\bin\Debug\netcoreapp3.1\Bundle.Migrations.dll
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\bin\Debug\netcoreapp3.1\Bundle.Migrations.pdb
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\bin\Debug\netcoreapp3.1\Bundle.Model.dll
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\bin\Debug\netcoreapp3.1\Bundle.Model.pdb
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\obj\Debug\netcoreapp3.1\Bundle.Migrations.csproj.CopyComplete
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\obj\Debug\netcoreapp3.1\Bundle.Migrations.dll
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\obj\Debug\netcoreapp3.1\Bundle.Migrations.pdb
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Migrations\obj\Debug\netcoreapp3.1\Bundle.Migrations.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Model\bin\Debug\netcoreapp3.1\Bundle.Model.deps.json
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Model\bin\Debug\netcoreapp3.1\Bundle.Model.dll
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Model\bin\Debug\netcoreapp3.1\Bundle.Model.pdb
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Model\obj\Debug\netcoreapp3.1\Bundle.Model.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Model\obj\Debug\netcoreapp3.1\Bundle.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Model\obj\Debug\netcoreapp3.1\Bundle.Model.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Model\obj\Debug\netcoreapp3.1\Bundle.Model.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Model\obj\Debug\netcoreapp3.1\Bundle.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Model\obj\Debug\netcoreapp3.1\Bundle.Model.dll
+C:\Users\HP\Desktop\Practice\BundleApplication\Bundle.Model\obj\Debug\netcoreapp3.1\Bundle.Model.pdb
